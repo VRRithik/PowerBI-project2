@@ -10,5 +10,6 @@ Description:
     drive strategic decision-making and support supermarket's goal for growth, efficiency and customer satisfaction.
 
 Learning:
+
  Incorporated data anaylysis techniques, specializing in time series analysis to deliver valuable insights, accurate 
  sales forecasting and interactive dashboard creation and driving business success.
