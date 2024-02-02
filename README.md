@@ -1,6 +1,6 @@
 # PowerBI-project2
 
-This project covers basic data cleaning and analysing, purpose of the project is to contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insight and accurate sales forecasting by creating a HR Analytic Dashboard.
+This project covers basic data cleaning and analysing, purpose of the project is to contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insight and accurate sales forecasting by creating a Sales Analytic Dashboard.
 
 Description:
  1. Dashboard Creaation- Identify thr KPTs' design an intuitive and visually appealing dashboard.
